@@ -1,5 +1,5 @@
 # ESP32-With-USB-Type-C-Port
- "PCBA from $0（Free Setup, Free Stencil" to " $2 for 1-8 Layer PCBs, get JLCPCB  $54  new user coupons: https://jlcpcb.com/RNA"
+ "PCBA from $0（Free Setup, Free Stencil" to " $2 for 1-8 Layer PCBs, get JLCPCB  $54  new user coupons:https://jlcpcb.com/?from=technolabcreation
  
  # INTRODUCTION
  We all love ESP32 microcontroller, In any of IOT Project we often use ESP32 module,ESP32 is one of the power-full and pretty famous microcontroller in the field  of IOT.
@@ -30,7 +30,7 @@ Once you have your Gerber files, you can order the PCB. Follow the next steps.
 
 1.Download the Gerber files – click here to download the .zip file
 
-2.Go to https://jlcpcb.com/RNA website and Click on Quote Now button.
+2.Go to https://jlcpcb.com/?from=technolabcreation website and Click on Quote Now button.
 
 3.Upload the gerber file you downloaded in the last step. Upload the.zip file or you can also drag and drop the gerber files.
 
